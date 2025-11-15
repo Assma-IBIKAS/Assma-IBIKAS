@@ -3,7 +3,7 @@
 
 ---
 
-##👨‍💻 How I Am
+**👨‍💻 How I Am ?**
 
 I’m a data & AI enthusiast with experience in Python, Machine Learning, Computer Vision, and building interactive dashboards.  
 I enjoy collaborating on challenging projects, exploring new AI techniques, and creating solutions that make a real impact.  
@@ -17,7 +17,7 @@ I’m constantly learning and experimenting to improve my skills in data science
   --> **AI Applications & Backend APIs (FastAPI, Python)**<br>
   --> **Data Visualization Dashboards and Interactive Reports**
 
-- ⚡ Fun fact: **I can spend hours testing different AI models… just to gain 1% in accuracy 😄**
+- ⚡ Fun fact: "**I can spend hours testing different AI models… just to gain 1% in accuracy 😄**"
 
 - 📫 How to reach me: <br>
   **--> 📧 assmaibikas@gmail.com**<br>
