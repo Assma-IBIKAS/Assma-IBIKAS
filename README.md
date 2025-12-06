@@ -87,7 +87,16 @@ Perfectionism is my sport.**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  
+  <!-- Nouveaux logos ajoutés -->
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React.js"/>
+  <img src="https://raw.githubusercontent.com/python-pillow/Pillow/master/docs/_static/pillow-logo-light-text.svg" width="40" alt="Pillow"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/keras-team/keras/main/docs/keras-logo-plain.svg" width="40" alt="Keras"/>
 </p>
+
 
 ---
 
