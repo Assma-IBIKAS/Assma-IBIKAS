@@ -1,32 +1,100 @@
-<h1 align="center">Hi 👋, I’m Assma IBIKAS</h1>
-<h3 align="center">Passionate about data science and artificial intelligence, I constantly learn and explore new technologies</h3>
+
+<h1 align="center">
+  🚀✨ Hi, I'm <span style="color:#6C63FF;">Assma IBIKAS</span> — Data & AI Explorer
+</h1>
+
+<h3 align="center">
+  Turning ideas into intelligent systems using Machine Learning, Computer Vision, and Smart Automation 👩‍💻🤖
+</h3>
 
 ---
 
-**👨‍💻 How I Am ?**
+## 👩‍💻 Who Am I?
 
-I’m a data & AI enthusiast with experience in Python, Machine Learning, Computer Vision, and building interactive dashboards.  
-I enjoy collaborating on challenging projects, exploring new AI techniques, and creating solutions that make a real impact.  
-I’m constantly learning and experimenting to improve my skills in data science and AI.
+I’m a passionate **Data & AI Developer** who loves transforming raw data into meaningful insights and building intelligent applications.  
+Curious, creative, and always experimenting, I enjoy exploring:
+
+- 🧠 Machine Learning & Deep Learning  
+- 👁️ Computer Vision (YOLO, CNN, OpenCV...)  
+- ⚙️ Backend AI APIs (FastAPI + Python)  
+- 📊 Interactive Dashboards & Data Visualization  
+
+I believe in learning by doing — testing, breaking, fixing, repeating.  
+Every new project is an opportunity to sharpen my AI superpowers. ⚡
 
 ---
 
-- 👯 I’m looking to collaborate on projects in:<br>
-  --> **Data Science / Machine Learning**<br>
-  --> **Computer Vision (YOLO, CNN, OpenCV...)**<br>
-  --> **AI Applications & Backend APIs (FastAPI, Python)**<br>
-  --> **Data Visualization Dashboards and Interactive Reports**
+## 🔍 What I'm Looking For
 
-- ⚡ Fun fact: "**I can spend hours testing different AI models… just to gain 1% in accuracy 😄**"
+I'm open to collaborations in:
 
-- 📫 How to reach me: <br>
-  **--> 📧 assmaibikas@gmail.com**<br>
-  **--> 🔗 https://www.linkedin.com/in/assma-ibikas-9025621bb/**
+➡️ **AI Applications & Smart Systems**  
+➡️ **Machine Learning & Predictive Modeling**  
+➡️ **Computer Vision & Image Processing**  
+➡️ **Data Engineering & Dashboards**  
 
+⭐ *If your project needs creativity + intelligence + clean code… I’m in!*
 
-<h3 align="left">Langages et outils :</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=assma-ibikas&show_icons=true&locale=en&layout=compact" alt="assma-ibikas" /></p>
+## 💡 AI & Programming Tips I Love
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assma-ibikas&" alt="assma-ibikas" /></p>
+📌 **Tip 1 — Small experiments beat long theories.**  
+Try models quickly, measure, iterate.  
+
+📌 **Tip 2 — Your data matters more than your algorithm.**  
+Cleaning > Modeling. Always.
+
+📌 **Tip 3 — Automate what you repeat.**  
+If you do something twice, script it — future you will thank you.
+
+📌 **Tip 4 — Document as you code.**  
+Good developers write code.  
+Great developers write code that *future them* can understand.
+
+📌 **Tip 5 — Creativity fuels innovation.**  
+Mix AI + art, ML + web apps, CV + dashboards…  
+That’s how great ideas are born.
+
+---
+
+## ⚡ Fun Fact
+**I can spend hours testing different AI models… just to gain 1% in accuracy 😄  
+Perfectionism is my sport.**
+
+---
+
+## 📫 Contact Me
+📧 Email: **assmaibikas@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/assma-ibikas-9025621bb/**  
+
+---
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assma-ibikas&show_icons=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=assma-ibikas" />
+</p>
